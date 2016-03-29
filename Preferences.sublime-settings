@@ -1,0 +1,22 @@
+{
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".svn",
+		".git",
+		"target",
+		".hg",
+		"CVS"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti_orig.sublime-theme"
+}
